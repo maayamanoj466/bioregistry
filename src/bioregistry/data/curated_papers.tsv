@@ -1,4 +1,10 @@
 pubmed	relevant	orcid	date_curated	relevancy_type	pr_added	notes
+36150478	0	0009-0000-6974-6386	2025-08-25	non_resource_paper	1623	
+36156381	0	0009-0000-6974-6386	2025-08-26	non_resource_paper	1623	
+36156381	0	0009-0000-6974-6386	2025-08-25	non_resource_paper	1623	
+36159887	0	0009-0000-6974-6386	2025-08-26	not_identifiers_resource	1623	
+36169225	0	0009-0000-6974-6386	2025-08-26	irrelevant_other	1623	Does not introduce new identifers
+36178800	0	0009-0000-6974-6386	2025-08-25	not_identifiers_resource	1623	
 38991828	0	0009-0009-5240-7463	2024-09-28	irrelevant_other	1193	
 38991851	1	0009-0009-5240-7463	2024-09-28	unclear	1193	identifiers for sharing, retrieving, and validating sample metadata. Unclear if this should be curated as a prefix, provider or a separate registry
 39005357	0	0009-0009-5240-7463	2024-10-05	irrelevant_other	1193	
